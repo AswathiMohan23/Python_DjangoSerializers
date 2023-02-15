@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class SerializersConfig(AppConfig):
+class SerializerConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'serializers'
+    name = 'serializer'
