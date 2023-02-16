@@ -2,6 +2,6 @@ from django.contrib import admin
 
 # Register your models here.
 
-from .models import employees
+from .models import Employees
 
-admin.site.register(employees)
+admin.site.register(Employees)
